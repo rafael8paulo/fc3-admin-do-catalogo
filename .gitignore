@@ -1,0 +1,53 @@
+# Arquivos de configuração do sistema
+.idea/
+
+# Arquivos gerados pelo sistema operacional
+*.iml
+*.ipr
+*.iws
+*.log
+*.swp
+*~
+
+# Arquivos de compilação Java
+build/
+bin/
+.gradle/
+build.gradle
+*.class
+
+# Arquivos de log e arquivos temporários
+log/
+*.log
+*.tmp
+
+# Arquivos específicos do Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos específicos do IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Arquivos específicos do NetBeans
+nbproject/private/
+
+# Arquivos específicos do Visual Studio Code
+.vscode/
+
+# Dependências baixadas pelo Gradle
+.gradle/
+build/
+
+# Logs
+*.log
+
+# Arquivos de propriedades
+#application.properties
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
